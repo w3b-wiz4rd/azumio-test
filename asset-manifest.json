@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/azumio-interview/static/css/main.cfef40ea.chunk.css",
-    "main.js": "/azumio-interview/static/js/main.575c3cd8.chunk.js",
-    "main.js.map": "/azumio-interview/static/js/main.575c3cd8.chunk.js.map",
-    "runtime-main.js": "/azumio-interview/static/js/runtime-main.33c14054.js",
-    "runtime-main.js.map": "/azumio-interview/static/js/runtime-main.33c14054.js.map",
-    "static/js/2.e22e12a1.chunk.js": "/azumio-interview/static/js/2.e22e12a1.chunk.js",
-    "static/js/2.e22e12a1.chunk.js.map": "/azumio-interview/static/js/2.e22e12a1.chunk.js.map",
-    "index.html": "/azumio-interview/index.html",
-    "precache-manifest.a040a2cc9add62465d24c5833e4ed5ff.js": "/azumio-interview/precache-manifest.a040a2cc9add62465d24c5833e4ed5ff.js",
-    "service-worker.js": "/azumio-interview/service-worker.js",
-    "static/css/main.cfef40ea.chunk.css.map": "/azumio-interview/static/css/main.cfef40ea.chunk.css.map",
-    "static/js/2.e22e12a1.chunk.js.LICENSE.txt": "/azumio-interview/static/js/2.e22e12a1.chunk.js.LICENSE.txt",
-    "static/media/ios_phone.png": "/azumio-interview/static/media/ios_phone.2bcb8999.png"
+    "main.css": "/azumio-test/static/css/main.cfef40ea.chunk.css",
+    "main.js": "/azumio-test/static/js/main.bf59e264.chunk.js",
+    "main.js.map": "/azumio-test/static/js/main.bf59e264.chunk.js.map",
+    "runtime-main.js": "/azumio-test/static/js/runtime-main.445dc90a.js",
+    "runtime-main.js.map": "/azumio-test/static/js/runtime-main.445dc90a.js.map",
+    "static/js/2.0d63c737.chunk.js": "/azumio-test/static/js/2.0d63c737.chunk.js",
+    "static/js/2.0d63c737.chunk.js.map": "/azumio-test/static/js/2.0d63c737.chunk.js.map",
+    "index.html": "/azumio-test/index.html",
+    "precache-manifest.669fa1a4a7bb958193b71af023a03288.js": "/azumio-test/precache-manifest.669fa1a4a7bb958193b71af023a03288.js",
+    "service-worker.js": "/azumio-test/service-worker.js",
+    "static/css/main.cfef40ea.chunk.css.map": "/azumio-test/static/css/main.cfef40ea.chunk.css.map",
+    "static/js/2.0d63c737.chunk.js.LICENSE.txt": "/azumio-test/static/js/2.0d63c737.chunk.js.LICENSE.txt",
+    "static/media/ios_phone.png": "/azumio-test/static/media/ios_phone.2bcb8999.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.33c14054.js",
-    "static/js/2.e22e12a1.chunk.js",
+    "static/js/runtime-main.445dc90a.js",
+    "static/js/2.0d63c737.chunk.js",
     "static/css/main.cfef40ea.chunk.css",
-    "static/js/main.575c3cd8.chunk.js"
+    "static/js/main.bf59e264.chunk.js"
   ]
 }
