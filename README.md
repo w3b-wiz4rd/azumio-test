@@ -6,7 +6,7 @@ http://jesus-hernandezmoreno.github.io/react-boilerplate
 
 Desktop:
 
-![desktop-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/azumio-test/master/src/assets/dekstop-demo.gif)
+![desktop-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/azumio-test/master/src/assets/desktop-demo.gif)
 
 Mobile:
 
