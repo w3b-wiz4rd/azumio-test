@@ -2,7 +2,7 @@
 
 ## Demo
 
-http://jesus-hernandezmoreno.github.io/react-boilerplate
+http://jesus-hernandezmoreno.github.io/azumio-interview
 
 Desktop:
 
