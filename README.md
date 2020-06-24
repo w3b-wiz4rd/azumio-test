@@ -6,11 +6,11 @@ http://jesus-hernandezmoreno.github.io/react-boilerplate
 
 Desktop:
 
-![desktop-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/coffee-shop-pos-concept/master/src/assets/coffee_shop_concept.gif)
+![desktop-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/azumio-test/master/src/assets/dekstop-demo.gif)
 
 Mobile:
 
-![mobile-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/coffee-shop-pos-concept/master/src/assets/coffee_shop_concet_mobile.gif)
+![mobile-version](https://raw.githubusercontent.com/jesus-hernandezmoreno/azumio-test/master/src/assets/mobile-demo.gif)
 
 ## About
 
